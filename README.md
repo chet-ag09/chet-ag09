@@ -7,7 +7,7 @@
   
 - 📮 to reach me - **ag.chet.09@gmail.com**
 
-- 🌐 my website (it looks bad cuz i didnt make it responsive-my bad bruh) - https://chet-ag09.github.io/chetna.github.io/
+- 🌐 my website (it looks bad cuz i didnt make it responsive-my bad bruh) - https://chet-ag09.github.io/
 
 
   <h3>Connect with me at<h3>
