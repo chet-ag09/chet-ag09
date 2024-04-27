@@ -14,6 +14,12 @@
   
 <a href="https://www.linkedin.com/in/chet-a-g-b2b81a2b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehaladbol" height="30" width="40" /></a><br><br>
 
+<div align="center">
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chet-ag09&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chet-ag09&layout=compact&&langs_count=8"/>
+</div>
+
+
 
 
  <h3>Tools i'm experienced in<h3>
