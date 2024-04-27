@@ -1,32 +1,15 @@
-<h1 align="center">Hey👋, I'm Chet</h1>
-<h3 align="center">I'm a high school sophomore with a passion for web dev, game dev and ai</h3><br>
+### Hi there! I'm Chet👋
 
-
-
-- 💻 my devpost account - [devpost/agchet4]([devpost/agchet4](https://devpost.com/agchetna4))
-  
-- 📮 to reach me - **ag.chet.09@gmail.com**
-
-- 🌐 my website (it looks bad cuz i didnt make it responsive-my bad) - https://chet-ag09.github.io/
-
-
-  <h3>Connect with me at<h3>
-  
-<a href="https://www.linkedin.com/in/chet-a-g-b2b81a2b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehaladbol" height="30" width="40" /></a><br><br>
+#### I'm a Designer, Developer and a student!
 
 <div align="center">
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chet-ag09&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chet-ag09&layout=compact&&langs_count=8"/>
 </div>
 
+### My Skills
 
-
-
- <h3>Tools i'm experienced in<h3>
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="30px" width="30px">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" height="30px" width="30px">
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7uwLyomLuj-z2wdukzRfaViu2o_urpD0h8eOGOdtcLQ&s" height="30px" width="30px">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30px" width="30px">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1200px-Unity_2021.svg.png" height="30px">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" height="30px" width="30px">
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
