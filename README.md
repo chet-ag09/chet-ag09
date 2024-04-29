@@ -11,7 +11,7 @@ $${\color{#5f09d9} \huge A \space Designer,\space Developer \space and \space a 
 I do have a bit of experience in game dev - Unity 3d and 2d.
 <br>
 <br>
-
+<a href=#><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"></a>
 ## Language and Tools 💪
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
@@ -19,7 +19,6 @@ I do have a bit of experience in game dev - Unity 3d and 2d.
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;" />
 <br><br>
-
 
 ## Contact ☎
 <head>
