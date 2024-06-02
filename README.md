@@ -1,6 +1,6 @@
 # Hi there! I'm Chet👋
 
-$${\color{#5f09d9} \huge A \space Designer,\space Developer \space and \space a \space Student!}$$
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=7000&pause=1000&color=5B2FF7&center=true&random=false&width=435&lines=A+Designer%2C+Developer+and+A+Student!)](https://git.io/typing-svg)
 
 <div align="center">
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chet-ag09&layout=compact&&langs_count=8&theme=radical"/>
