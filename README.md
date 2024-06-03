@@ -8,8 +8,7 @@
 
 ## About Me 🤌
 ###  Hello! I'm Chetna, a rising high school junior. I'm passionate about Web Development and ML/AI.
-I do have a bit of experience in game dev - Unity 3d and 2d.
+I have a bit of experience in game dev - Unity 3d and 2d too.
 <br>
 <br>
 <a href=#><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"></a>
-#\
