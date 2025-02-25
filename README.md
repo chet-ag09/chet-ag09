@@ -7,7 +7,7 @@
 </div>
 
 ## About Me 🤌
-###  Hello! I'm Chetna, a rising high school junior. I'm passionate about Web Development and ML/AI.
+###  Hello! I'm Chetna, I'm passionate about Web Development and ML/AI.
 I have a bit of experience in game dev - Unity 3d and 2d too.
 <br>
 <br>
