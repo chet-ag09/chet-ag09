@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm CH37</h1>
 
-<h2 align="center">About Me 🤌</h2>
+<h2 align="center" style="color: blueviolet;">About Me 🤌</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
