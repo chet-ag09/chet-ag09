@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Hello! I'm <b>Chetna</b>, a passionate Web Developer and ML/AI enthusiast.  
+  Hello! I'm <b>Chetna</b>, a passionate Web Developer and Cybersecurity enthusiast.  
   I also have experience in Game Development (both 2D and 3D) using Unity.
 </p>
 
